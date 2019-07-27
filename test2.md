@@ -7,7 +7,7 @@
 	- Apache dành cho *.php...
 	- Sun Fava System Web Server của Sun dành cho *p 
 
--Máy chủ Webserver là máy chủ có dung lượng lưu trữ lớn, tốc độ xử lý nhanh . Máy chủ Webserver được dùng như là một nơi lưu trữ thông tin của các website và các dữ liệu liên quan.
+- Máy chủ Webserver là máy chủ có dung lượng lưu trữ lớn, tốc độ xử lý nhanh . Máy chủ Webserver được dùng như là một nơi lưu trữ thông tin của các website và các dữ liệu liên quan.
 
 ### B. WEB SERVER dùng để làm gì?
 
@@ -17,8 +17,8 @@
 
 > Khi người dùng muốn truy cập vào một website thì họ phải có kết nối internet và sử dụng giao thử HTTP trên các trình duyệt web.
 
-	- Người dùng truy cập website bằng địa chỉ IP, lúc này yêu cầu sẽ gửi trực tiếp tới Webserver có chứa Ip trên. 
-		- Nếu người dung truy cập website bằng tên miền, yêu cầu sẽ gửi tới DNS server để phân giải tên miền trên thành địa chỉ IP và 			  gửi yêu cầu truy cập website tới webserver có chứa IP vừa phân giải được .
+- Người dùng truy cập website bằng địa chỉ IP, lúc này yêu cầu sẽ gửi trực tiếp tới Webserver có chứa Ip trên. 
+	- Nếu người dung truy cập website bằng tên miền, yêu cầu sẽ gửi tới DNS server để phân giải tên miền trên thành địa chỉ IP và gửi yêu 		cầu truy cập website tới webserver có chứa IP vừa phân giải được .
 
 
 
